@@ -1,0 +1,4 @@
+include ':CilkButtons'
+include ':nil'
+include ':app'
+rootProject.name = "My Application"
