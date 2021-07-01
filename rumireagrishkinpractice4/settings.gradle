@@ -1,0 +1,7 @@
+include ':workmanager'
+include ':loadermanger'
+include ':looper'
+include ':data_thread'
+include ':thread'
+include ':app'
+rootProject.name = "ru.mirea.grishkin.practice4"
